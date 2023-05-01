@@ -59,6 +59,8 @@ Does the year of birth affect the severity of allergens?
 # Conclusion: 
 In conclusion, our analysis indicates that demographic factors such as age, gender, and race could influence the severity of allergic reactions to various types of allergens, and certain food allergens may be more prevalent than others. Furthermore, our findings suggest that being insured or uninsured may also have an impact on the severity of food allergies, with non-Medicaid individuals experiencing a higher number of severe cases. Peanuts are the most commonly reported food allergen in the United States, and our analysis shows that there is no gender-specific prevalence of food allergies. Additionally, we observed a correlation between the year of birth and the severity of allergens, with individuals born in the 1980s exhibiting lower reported allergies than those born in later years. However, further research is necessary to fully comprehend the complex relationships between these variables and their influence on allergic reactions.
 
+
+
 # Data Sources:
 
 - https://www.kaggle.com/datasets/boltcutters/food-allergens-and-allergies
