@@ -2,7 +2,7 @@
 ---
 # Conducting Analysis of data related to food allergens.
 
-## Team Members 
+# Team Members 
 Ryan Beebe - Raymond Darrough - Sophia Felix - Alex Bolinger - Ahmed Abusamra - Micah Galbadores - Sanjana Islam
 
 
