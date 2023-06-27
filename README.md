@@ -1,10 +1,5 @@
-# UCB Bootcamp Project 01 - Group 1
----
+
 # Conducting Analysis of data related to food allergens.
-
-# Team Members 
-Ryan Beebe - Raymond Darrough - Sophia Felix - Alex Bolinger - Ahmed Abusamra - Micah Galbadores - Sanjana Islam
-
 
 
 ## Google Slide Link
